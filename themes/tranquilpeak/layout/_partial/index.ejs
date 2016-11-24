@@ -95,6 +95,12 @@
             <% thumbnailImageUrl = null; %>
         <% } %>
     </article>
+    <% if ((post.tags) && (post.tags.length > 0)) { %>
+    <div class="post-footer-tags">
+        <span class="text-color-light text-small"><%= __('post.tagged_in') %></span><br/>
+        <%- partial('post/tag', {tags: post.tags})%>
+    </div>
+    <% } %>
     <% }) %>
     <%- partial('pagination', {type: 'page'}) %>
 </section>

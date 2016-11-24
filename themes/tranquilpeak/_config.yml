@@ -39,10 +39,10 @@ sidebar:
 #            title: global.categories
 #            url: /all-categories
 #            icon: bookmark
-#        tags:
-#            title: global.tags
-#            url: /all-tags
-#            icon: tags
+        tags:
+            title: global.tags
+            url: /tags
+            icon: tags
 #        archives:
 #            title: global.archives
 #            url: /all-archives
@@ -104,7 +104,7 @@ sidebar:
 #     class: open-algolia-search
 header:
     right_link:
-        url: /#about
+        url: /obo-mnie/
         icon:
         class:
 
