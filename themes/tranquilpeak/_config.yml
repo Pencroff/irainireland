@@ -35,18 +35,18 @@ sidebar:
             title: global.home
             url: /
             icon: home
-        categories:
-            title: global.categories
-            url: /all-categories
-            icon: bookmark
-        tags:
-            title: global.tags
-            url: /all-tags
-            icon: tags
-        archives:
-            title: global.archives
-            url: /all-archives
-            icon: archive
+#        categories:
+#            title: global.categories
+#            url: /all-categories
+#            icon: bookmark
+#        tags:
+#            title: global.tags
+#            url: /all-tags
+#            icon: tags
+#        archives:
+#            title: global.archives
+#            url: /all-archives
+#            icon: archive
         search:
             title: global.search
             url: /#search
@@ -55,7 +55,7 @@ sidebar:
             class: open-algolia-search
         about:
             title: global.about
-            url: /#about
+            url: /obo-mnie/
             icon: question
     author_links:
         # github:
