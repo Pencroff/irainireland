@@ -39,20 +39,20 @@ sidebar:
 #            title: global.categories
 #            url: /all-categories
 #            icon: bookmark
-#        tags:
-#            title: global.tags
-#            url: /tags
-#            icon: tags
+        tags:
+            title: global.tags
+            url: /tags
+            icon: tags
 #        archives:
 #            title: global.archives
 #            url: /all-archives
 #            icon: archive
-        search:
-            title: global.search
-            url: /#search
-            icon: search
-            # `open-algolia-search` classes are used to open algolia search modal
-            class: open-algolia-search
+#        search:
+#            title: global.search
+#            url: /#search
+#            icon: search
+#            # `open-algolia-search` classes are used to open algolia search modal
+#            class: open-algolia-search
         about:
             title: global.about
             url: /obo-mnie/
@@ -179,7 +179,7 @@ tag_pagination: true
 # You can't use Disqus and Duoshuo together
 # then fill the right shortname
 # Your Disqus shortname
-disqus_shortname:
+disqus_shortname: irainirelandcom
 # Your Duoshuo shortname
 duoshuo_shortname:
 # Your Google analystics web property ID : UA-XXXXX-X
