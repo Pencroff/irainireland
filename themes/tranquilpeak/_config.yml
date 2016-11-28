@@ -39,10 +39,10 @@ sidebar:
 #            title: global.categories
 #            url: /all-categories
 #            icon: bookmark
-        tags:
-            title: global.tags
-            url: /tags
-            icon: tags
+#        tags:
+#            title: global.tags
+#            url: /tags
+#            icon: tags
 #        archives:
 #            title: global.archives
 #            url: /all-archives
@@ -70,10 +70,10 @@ sidebar:
         #     title: global.twitter
         #     url: https://twitter.com/
         #     icon: twitter
-        # facebook:
-        #     title: global.facebook
-        #     url: https://facebook.com/
-        #     icon: facebook
+         facebook:
+             title: global.facebook
+             url: https://www.facebook.com/pr.danilova
+             icon: facebook
         # google_plus:
         #     title: global.google_plus
         #     url: https://plus.google.com/

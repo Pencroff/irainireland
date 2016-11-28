@@ -49,6 +49,15 @@ category_map:
 tag_map:
   Иммиграция: immighratsiia
   Моя история иммиграции: moia-istoriia-immighratsii
+  Статистика: statistika
+  Деньги: dienghi
+  Документы: dokumienty
+  Виза в Ирландию: viza-v-irlandiiu
+  Зарплаты в Ирландии: zarplaty-v-irlandii
+  Факты: fakty
+  Стоимость жизни в Ирландии: stoimost-zhizni-v-irlandii
+  Oбразование в Ирландии: obrazovaniie-v-irlandii
+  IT сектор: it-siektor
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
