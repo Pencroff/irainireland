@@ -9,10 +9,10 @@ tags:
 
 {% asset_img Zarplaty-v-Irlandii-2.JPG alt %}
 
-######Полезная навигация
+###### Полезная навигация
+
 * [Зарплаты в Ирландии - часть 1](http://irainireland.com/zarplaty-v-irlandii/)
-* Про 
-расходы я писала вот [здесь](http://irainireland.com/stoimost-zhizni-v-dublinie/).
+* Про расходы я писала вот [здесь](http://irainireland.com/stoimost-zhizni-v-dublinie/).
 * Напомню, что зарплаты указанны для постоянного трудоустройства в тысячах евро в год и до налогов. 
 * Сколько откусят налоги, можно быстро и приблизительно прикинуть [вот здесь](http://download.pwc.com/ie/budget-2015/index.html)
 * Курс валют смотрим здесь:
@@ -690,11 +690,10 @@ tags:
     </tbody>
 </table>
   [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
-    </table></div>
-     <table class="table" id="IT">
-      <caption>IT индустрия- 
-    Software development</caption>
-      <thead>
+
+<table class="table" id="IT">
+    <caption>IT индустрия - Software development</caption>
+    <thead>
     	<tr>
     		<th rowspan="2" style="width: 60%; vertical-align: middle;">Должность</th>
       		<th colspan="2" style="text-align: center; width: 20%;">Dublin</th>
@@ -706,15 +705,16 @@ tags:
             <th>Low</th>
             <th>High</th>
         </tr>
-	</thead>
-      <tbody>
-         <tr>
-         <td>Software Engineer - .Net, C#, Asp.Net, SQL Server 2005</td>
-        <td>35</td>
-        <td>70</td>
-        <td>35</td>
-        <td>60</td>
-    </tr><tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Software Engineer - .Net, C#, Asp.Net, SQL Server 2005</td>
+            <td>35</td>
+            <td>70</td>
+            <td>35</td>
+            <td>60</td>
+        </tr>
+        <tr>
         <td>Web Developer Design - DHTML, CSS, JavaScript, XML and AJAX</td>
         <td>28</td>
         <td>55</td>
