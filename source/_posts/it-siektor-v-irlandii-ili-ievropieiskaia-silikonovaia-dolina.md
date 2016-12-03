@@ -44,7 +44,7 @@ Microsoft, Amazon, Google, Oracle, Dell, Apple, SanDicsk, Kingston, Facebook, In
 
 Детально про гранты и бенефиты компаниям можно почитать здесь:
 
-http://www.enterprise-ireland.com
-https://www.localenterprise.ie
-http://www.citizensinformation.ie
-http://www.ictireland.ie
+[enterprise-ireland.com](http://www.enterprise-ireland.com)
+[localenterprise.ie](https://www.localenterprise.ie)
+[citizensinformation.ie](http://www.citizensinformation.ie)
+[ictireland.ie](http://www.ictireland.ie)

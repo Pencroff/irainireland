@@ -54,6 +54,12 @@ IT индустрия
 Управление персоналом
 Продажи
 -->
+|Должность|Dublin|Ireland|
+|         |--------------|
+|         |Low|High|Low|High|
+|---------|---|----|---|----|
+|Plant/Operations Manager|60|70|60|70|
+
 <table class="table" id="postavki-i-logistika">
 	<caption>Поставки и логистика</caption>
     <thead>
