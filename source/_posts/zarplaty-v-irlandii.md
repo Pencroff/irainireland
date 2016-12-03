@@ -23,27 +23,26 @@ tags:
 
 > Важно не забывать, что слово manager здесь не обозначает любого человека, который работает в самом начале карьерной цепочки.  Например, менеджер по маркетингу на привычном постсоветском пространстве – это человек, который подчинен маркетинг директору  и является, по сути, исполнителем. Но не стоит обольщаться, увидев напротив позиции “marketing manager” цифру 70 тысяч евро в год. Тот самый «менеджер по маркетингу»  тут будет или Marketing assistant или Marketing Executive или Marketing specialist, в зависимости от его обязанностей и опыта работы. 
 
-Если не знаете как ваша профессия бы называлась на европейском рынке, лучше поискать на сайтах вакансий описания должностей. Вот, здесь, например http://www.jobs.ie
+Если не знаете как ваша профессия бы называлась на европейском рынке, лучше поискать на сайтах вакансий описания должностей. Вот, здесь, например [jobs.ie](http://www.jobs.ie)
+
+<div id="zarplaty-v-irlandii"></div>
 
 Зарплаты указанны для постоянного трудоустройства  в тысячах евро в год до налогов.
 Для удобства я сделала ссылки на каждую отрасль, так как листать эти таблицы будет долго. 
 
-<div id="zarplaty-v-irlandii"></div>
+[Поставки и логистика](#postavki-i-logistika)
 
+[Наука](#nauka)
 
-[Поставки и логистика](/zarplaty-v-irlandii#postavki-i-logistika)
+[Инжиниринг](#inzhiniring)
 
-[Наука](/zarplaty-v-irlandii#nauka)
+[Строительство](#stroitelstvo)
 
-[Инжиниринг](/zarplaty-v-irlandii#inzhiniring)
+[Закон и юриспруденция](#zakon-i-jurisprudencija)
 
-[Строительство](/zarplaty-v-irlandii#stroitelstvo)
+[Банковское дело](#bankovskoe-delo)
 
-[Закон и юриспруденция](/zarplaty-v-irlandii#zakon-i-jurisprudencija)
-
-[Банковское дело](/zarplaty-v-irlandii#bankovskoe-delo)
-
-[Call-центры и обслуживание клиентов](/zarplaty-v-irlandii#call-centry-i-obsluzhivanie-klientov)
+[Call-центры и обслуживание клиентов](#call-centry-i-obsluzhivanie-klientov)
 
 <!--
 Маркетинг
@@ -54,11 +53,6 @@ IT индустрия
 Управление персоналом
 Продажи
 -->
-|Должность|Dublin|Ireland|
-|         |--------------|
-|         |Low|High|Low|High|
-|---------|---|----|---|----|
-|Plant/Operations Manager|60|70|60|70|
 
 <table class="table" id="postavki-i-logistika">
 	<caption>Поставки и логистика</caption>
@@ -352,7 +346,7 @@ IT индустрия
 	</tbody>
 </table>
 
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
+[Наверх](#zarplaty-v-irlandii)
 
 <table class="table" id="nauka">
 	<caption>Наука</caption>
@@ -843,7 +837,9 @@ IT индустрия
         </tr>      
 	</tbody>    
 </table>       
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
+
+[Наверх](#zarplaty-v-irlandii)
+
 <table class="table" id="inzhiniring">
 	<caption>Инжиниринг</caption>
 	<thead>
@@ -1204,7 +1200,9 @@ IT индустрия
             <td>65</td>
         </tr>
 </table>
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
+
+[Наверх](#zarplaty-v-irlandii)
+
 <table class="table" id="stroitelstvo">
 	<caption>Строительство</caption>
 	<thead>
@@ -1384,7 +1382,9 @@ IT индустрия
 		</tr>
 	</tbody>
 </table>
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
+
+[Наверх](#zarplaty-v-irlandii)
+
 <table class="table" id="zakon-i-jurisprudencija">
 	<caption>Закон и юриспруденция</caption>
 	<thead>
@@ -1465,7 +1465,9 @@ IT индустрия
         </tr>
     </tbody>
 </table>
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
+
+[Наверх](#zarplaty-v-irlandii)
+
 <table class="table" id="bankovskoe-delo">
 	<caption>Банковское дело</caption>
     <thead>
@@ -1738,7 +1740,9 @@ IT индустрия
         </tr>
     </tbody>  
 </table>
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
+
+[Наверх](#zarplaty-v-irlandii)
+
 <table class="table" id="call-centry-i-obsluzhivanie-klientov">
       <caption>Call-центры и обслуживание клиентов</caption>
       <thead>
@@ -2038,7 +2042,8 @@ IT индустрия
         </tr>
     </tbody>
 </table>
-[Наверх](/zarplaty-v-irlandii#zarplaty-v-irlandii)
 
-Все данные взяты с сайта https://www.cpl.ie
+[Наверх](#zarplaty-v-irlandii)
+
+Все данные взяты с сайта [cpl.ie](https://www.cpl.ie)
 

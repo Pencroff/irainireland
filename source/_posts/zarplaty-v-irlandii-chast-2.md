@@ -21,29 +21,27 @@ tags:
 > Важно не забывать, что слово manager здесь не обозначает любого человека, который работает в самом начале карьерной цепочки.  Например, менеджер по маркетингу на привычном постсоветсвком пространстве – это человек, который подчинен маркетинг директору  и является, по сути, исполнителем. Но не стоит обольщаться, увидев напротив позиции “marketing manager” цифру 70 тысяч евро в год. Тот самый «менеджер по маркетингу»  тут будет или Marketing assistant или Marketing Executive или Marketing specialist, в зависимости от его обязанностей и опыта работы. 
 
 <!-- more -->
-
-Если не знаете как ваша профессия бы называлась на европейском рынке, лучше поискать на сайтах вакансий описания должностей. Вот, здесь, например http://www.jobs.ie
-
 <div id="zarplaty-v-irlandii-chast-2"></div>
+Если не знаете как ваша профессия бы называлась на европейском рынке, лучше поискать на сайтах вакансий описания должностей. Вот, здесь, например [jobs.ie](http://www.jobs.ie)
 
-######Рубрикатор профессий по отраслям
+###### Рубрикатор профессий по отраслям
 
 
-[Маркетинг](/zarplaty-v-irlandii-chast-2#marketing)
+[Маркетинг](#marketing)
 
-[IT индустрия](/zarplaty-v-irlandii-chast-2#IT)
+[IT индустрия](#IT)
 
-[Розничная торговля](/zarplaty-v-irlandii-chast-2#retail)
+[Розничная торговля](#retail)
 
-[Финансы и учет](/zarplaty-v-irlandii-chast-2#finansy-i-uchet)
+[Финансы и учет](#finansy-i-uchet)
 
-[Страхование](/zarplaty-v-irlandii-chast-2#insurance)
+[Страхование](#insurance)
 
-[Офисный персонал](/zarplaty-v-irlandii-chast-2#office-staff)
+[Офисный персонал](#office-staff)
 
-[Управление персоналом](/zarplaty-v-irlandii-chast-2#human-resources)
+[Управление персоналом](#human-resources)
 
-[Продажи](/zarplaty-v-irlandii-chast-2#sales)
+[Продажи](#sales)
 
 
 
@@ -689,7 +687,8 @@ tags:
         </tr>
     </tbody>
 </table>
-  [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
+  
+[Наверх](#zarplaty-v-irlandii-chast-2)
 
 <table class="table" id="IT">
     <caption>IT индустрия - Software development</caption>
@@ -1169,10 +1168,12 @@ tags:
         <td>60</td>
     </tr>
 </table>
-  [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
-   </table>
-     <table class="table" id="retail">
-      <caption>Розничная торговля</caption>
+
+[Наверх](#zarplaty-v-irlandii-chast-2)
+
+</table>
+    <table class="table" id="retail">
+        <caption>Розничная торговля</caption>
       <thead>
     	<tr>
     		<th rowspan="2" style="width: 60%; vertical-align: middle;">Должность</th>
@@ -1466,9 +1467,10 @@ tags:
         </tr>
    </table>
   
-  [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
-         <table class="table" id="finansy-i-uchet">
-      <caption>Финансы и учет</caption>
+[Наверх](#zarplaty-v-irlandii-chast-2)
+
+<table class="table" id="finansy-i-uchet">
+    <caption>Финансы и учет</caption>
       <thead>
         <thead>
     	<tr>
@@ -1790,8 +1792,10 @@ tags:
         </tr>
         </tr>
     </tbody>
-    </table></div>
-  [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
+</table>
+    
+[Наверх](#zarplaty-v-irlandii-chast-2)
+
 </table></div>
      <table class="table" id="insurance">
       <caption>Страхование</caption>
@@ -1998,10 +2002,11 @@ tags:
             <td>140</td>
                </tr>
     </tbody>
-    </table>
-              [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
+</table>
+              
+[Наверх](#zarplaty-v-irlandii-chast-2)
      
-   <table class="table" id="office-staff">
+<table class="table" id="office-staff">
       <caption>Офисный персонал</caption>
       <thead>
     	<tr>
@@ -2138,11 +2143,10 @@ tags:
         </tr>
     </tbody>
     </table>
-         [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
          
-        
-   
-   <table class="table" id="human-resources">
+[Наверх](#zarplaty-v-irlandii-chast-2)
+
+<table class="table" id="human-resources">
       <caption>Управление персоналом</caption>
       <thead>
     	<tr>
@@ -2391,9 +2395,10 @@ tags:
         </tr>
     </tbody>
 </table>
-          [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
+
+[Наверх](#zarplaty-v-irlandii-chast-2)
     
-   <table class="table" id="sales">
+<table class="table" id="sales">
       <caption>Продажи</caption>
       <thead>
     	<tr>
@@ -2635,8 +2640,8 @@ tags:
         </tr>
     </tbody>
 </table>
-  [Наверх](/zarplaty-v-irlandii-chast-2#zarplaty-v-irlandii-chast-2")
   
-  Все данные взяты с сайта https://www.cpl.ie
-****
+[Наверх](#zarplaty-v-irlandii-chast-2)
+  
+Все данные взяты с сайта [cpl.ie](https://www.cpl.ie)
     
