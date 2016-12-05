@@ -41,6 +41,10 @@ h6 {
     color:          #4a4a4a;
 }
 
+h2 {
+    color: map-get($colors, 'primary');
+}
+
 h1,
 h2,
 h3 {

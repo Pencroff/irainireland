@@ -103,3 +103,10 @@ markdown:
     permalink: false
     permalinkClass: header-anchor
     permalinkSymbol: ¶
+
+# RSS feed
+# npm install hexo-generator-feed --save
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20

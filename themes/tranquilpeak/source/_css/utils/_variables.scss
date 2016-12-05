@@ -6,27 +6,28 @@ $open-sans:            'Open Sans';
 $open-sans-sans-serif: 'Open Sans', sans-serif;
 $merriweather-serif:   'Merriweather', serif;
 $menlo:                 Menlo;
+$roboto-font:          'Roboto', sans-serif;
 
 $font-family-base: $open-sans-sans-serif;
 
 $font-families: (
    // base
-   'headings':          $open-sans-sans-serif,
+   'headings':          $merriweather-serif, //$open-sans-sans-serif,
    // components
    'code':              $menlo,
    'caption':           $merriweather-serif,
    'image-gallery':     $open-sans,
    'post-header-cover': $merriweather-serif,
-   'post-meta':         $open-sans-sans-serif,
-   'post-content':      $merriweather-serif,
-   'post-excerpt-link': $open-sans-sans-serif,
+   'post-meta':         $roboto-font,
+   'post-content':      $roboto-font, //$merriweather-serif,
+   'post-excerpt-link': $roboto-font,
    'highlight':         $menlo,
    // layout
-   'sidebar':           $open-sans-sans-serif
+   'sidebar':           $roboto-font
 );
 
 // equal to 15px
-$font-size-base:      1.6rem;
+$font-size-base:      1.7rem;
 $font-color-base:     #5d686f;
 $line-height-base:    1.9em;
 $letter-spacing-base: 0.01em;
@@ -216,7 +217,7 @@ $image-gallery-photos-margin: 2px;
 
 // Main content
 $main-content: (
-    'max-width':          750px,
+    'max-width':          960px,
     'padding-right-left': 20px,
 );
 
@@ -243,7 +244,7 @@ $pagination-height: 60px;
 
 // Post thumbnail image
 // Width and height of post's thumbnail image
-$post-thumbnail-image-width: 140px;
+$post-thumbnail-image-width: 1px; //140px;
 
 // Tooltip
 $tooltip: (

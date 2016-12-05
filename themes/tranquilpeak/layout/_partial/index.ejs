@@ -39,7 +39,7 @@
                 <% thumbnailImageUrl = null; %>
             <% } %>
             <div class="postShorten-header">
-                <h1 class="postShorten-title" itemprop="headline">
+                <h2 class="postShorten-title" itemprop="headline">
                     <% if (post.link) { %>
                         <a class="link-unstyled" href="<%- url_for(post.link) %>">
                             <%= post.title || '(' + __('post.no_title') + ')' %>
@@ -49,7 +49,7 @@
                             <%= post.title || '(' + __('post.no_title') + ')' %>
                         </a>
                     <% } %>
-                </h1>
+                </h2>
                 <%- partial('post/meta', {post: post, classes: ['postShorten-meta']}) %>
             </div>
             <% if (post.excerpt || post.link) { %>
@@ -60,14 +60,16 @@
                             <%= __('post.go_to_website') %>
                         </a>
                     <% } else if (__('post.read_more')) { %>
-                        <a href="<%- url_for(post.path) %>" class="postShorten-excerpt_link link">
-                            <%- __('post.read_more') %>
-                        </a>
-                        <% if (post.readingtime) { %>
+                        <div class="postShorten-excerpt_link_container">
+                            <a href="<%- url_for(post.path) %>" class="postShorten-excerpt_link link">
+                                <%- __('post.read_more') %>
+                            </a>
+                            <% if (post.readingtime) { %>
                             <span class="postShorten-readingtime">
                                 <%= ' - ' + post.readingtime + ' min read' %>
                             </span>
-                        <% } %>
+                            <% } %>
+                        </div>
                     <% } %>
                 </div>
             <% } else { %>
