@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
   // Build (environment : development)
   grunt.registerTask('build', [
-    'clean:build',
+    // 'clean:build',
     'bower:dev',
     'syncAssets',
     'linkAssets',
